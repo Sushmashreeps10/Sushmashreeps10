@@ -1,4 +1,4 @@
-[![MasterHead](https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png)]
+![MasterHead](https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png)
 
 <h1 align="center">Hi 👋, I'm Sushmashree P S</h1>
 <h3 align="center">A passionate Python developer from India</h3>
