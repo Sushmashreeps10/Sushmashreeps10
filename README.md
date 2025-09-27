@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sushmashreeps10" target="blank"><img src="https://img.shields.io/twitter/follow/sushmashreeps10?logo=twitter&style=for-the-badge" alt="sushmashreeps10" /></a> </p>
 
-- 🔭 I’m currently working on [ARECANUT DISEASE DETECTION](https://github.com/Sushmashreeps10)
+- 🔭 I’m currently working on [Full Stack Development] (https://github.com/Sushmashreeps10)
 
 - 🌱 I’m currently learning **React js, angular js, generative Ai cource**
 
