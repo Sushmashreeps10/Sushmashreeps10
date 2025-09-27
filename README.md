@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Full Stack Development] (https://github.com/Sushmashreeps10)
 
-- 🌱 I’m currently learning **React js, angular js, generative Ai cource**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on [web development projects](https://github.com/Sushmashreeps10)
 
