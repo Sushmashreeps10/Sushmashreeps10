@@ -1,7 +1,7 @@
 ![MasterHead](https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png)
 
 <h1 align="center">Hi 👋, I'm Sushmashree P S</h1> 
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="150" src="https://c8.alamy.com/comp/2C3XTMT/a-young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-at-home-vector-flat-illustration-2C3XTMT.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmashreeps10&label=Profile%20views&color=0e75b6&style=flat" alt="sushmashreeps10" /> </p>
 
