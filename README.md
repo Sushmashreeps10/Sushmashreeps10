@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3 style="color: #FFB6C1;"> 🌸 Software Engineer | Python Enthusiast | Full Stack Developer 🇮🇳 </h3>
+  <h3 style="color: #FFB6C1;"> 🌸 Software Engineer | Python Enthusiast | Full Stack Developer 🌸 </h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sushmashreeps10&label=PROFILE%20VIEWS&color=ffc0cb&style=for-the-badge" alt="views" />
@@ -18,12 +18,11 @@
 A skilled software engineer with a strong foundation in programming and web development. Versatile in tackling tasks from data analysis to machine learning, and building interactive web applications. 
 
 - 🔭 **Currently working on:** [Full Stack Development](https://github.com/Sushmashreeps10)
-- 🌱 **Currently learning:** **NodeJS & Backend Architecture**
+- 🌱 **Currently learning:** **.Net(C Sharp) & Backend Architecture**
 - 👯 **Looking to collaborate on:** [Web Development Projects](https://github.com/Sushmashreeps10)
 - 📝 **Writing articles on:** [Frontend Mastery](https://github.com/Sushmashreeps10/FrontendMastery)
-- 💬 **Ask me about:** Python, JavaScript, and Machine Learning.
-- ⚡ **Fun Fact:** When I'm not coding, I'm dancing or experimenting with pink-themed recipes! 🍰
-
+- 💬 **Ask me about:** Python, Java, Spring Boot, React JS, Next JS, SQL, C#,  Artificial Intelligence, and Machine Learning.
+- ⚡ **Fun Fact:** - <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f496.png" width="20" /> My life runs on a highly optimized algorithm: `while(not_coding) { dance(); cook(); }`. I’ve mastered the art of balancing binary trees and baking recipes with zero runtime errors! 🍰
 ---
 
 ### 🛠️ Tech Stack & Tools
