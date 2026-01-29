@@ -19,7 +19,7 @@ A versatile Software Engineer passionate about the intersection of data and web 
 
 - 🔭 **Current Project:** [Full Stack Development](https://github.com/Sushmashreeps10)
 - 🌱 **Skill Up:** Deep diving into **NodeJS** and **System Architecture**
-- ⚡ **Fun Fact:** My life runs on a highly optimized algorithm: `while(not_coding) { dance(); cook(); }`. I treat my kitchen recipes like my code—clean, documented, and error-free! 🍰
+- ⚡ **Fun Fact:** My life runs on a highly optimized algorithm: `while(not_coding) { Watching Movices(); cook(); }`. I treat my kitchen recipes like my code—clean, documented, and error-free! 🍰
 
 ---
 
