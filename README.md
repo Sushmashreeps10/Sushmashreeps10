@@ -22,7 +22,7 @@ A skilled software engineer with a strong foundation in programming and web deve
 - 👯 **Looking to collaborate on:** [Web Development Projects](https://github.com/Sushmashreeps10)
 - 📝 **Writing articles on:** [Frontend Mastery](https://github.com/Sushmashreeps10/FrontendMastery)
 - 💬 **Ask me about:** Python, Java, Spring Boot, React JS, Next JS, SQL, C#,  Artificial Intelligence, and Machine Learning.
-- ⚡ **Fun Fact:** - <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f496.png" width="20" /> My life runs on a highly optimized algorithm: `while(not_coding) { dance(); cook(); }`. I’ve mastered the art of balancing binary trees and baking recipes with zero runtime errors! 🍰
+- ⚡ **Fun Fact:** - <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f496.png" width="20" /> My life runs on a highly optimized algorithm: `while(not_coding) { WatchingMovies(); cook(); }`. I’ve mastered the art of balancing binary trees and baking recipes with zero runtime errors! 🍰
 ---
 
 ### 🛠️ Tech Stack & Tools
