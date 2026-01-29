@@ -71,9 +71,7 @@ A versatile Software Engineer passionate about the intersection of data and web 
 ---
 
 ### 🏆 Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushmashreeps10&theme=flat&column=7&margin-w=15&no-bg=true" alt="trophies" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmashreeps10" alt="sushmashreeps10" /></a> </p>
 
 ---
 
