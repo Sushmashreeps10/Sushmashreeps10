@@ -71,7 +71,15 @@ A versatile Software Engineer passionate about the intersection of data and web 
 ---
 
 ### 🏆 Achievements & Trophies
+<img align="right" alt="coding" width="150" src="https://c8.alamy.com/comp/2C3XTMT/a-young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-at-home-vector-flat-illustration-2C3XTMT.jpg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmashreeps10&label=Profile%20views&color=0e75b6&style=flat" alt="sushmashreeps10" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmashreeps10" alt="sushmashreeps10" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sushmashreeps10" target="blank"><img src="https://img.shields.io/twitter/follow/sushmashreeps10?logo=twitter&style=for-the-badge" alt="sushmashreeps10" /></a> </p>
+
+
 
 ---
 
