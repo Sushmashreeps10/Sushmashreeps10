@@ -38,6 +38,10 @@ I am a versatile Software Engineer with a passion for building interactive web a
 
 ### 📈 GitHub Analytics
 
+---
+
+### 📈 GitHub Analytics
+
 <div align="center">
   <table border="0">
     <tr>
@@ -55,6 +59,15 @@ I am a versatile Software Engineer with a passion for building interactive web a
     </tr>
   </table>
 </div>
+
+---
+
+### 🏆 Achievements & Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sushmashreeps10&theme=flat&column=7&margin-w=15" alt="trophies" />
+  </a>
+</p>
 
 ---
 
