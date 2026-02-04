@@ -50,7 +50,7 @@ A versatile Software Engineer passionate about the intersection of data and web 
 ---
 
 ### 📈 GitHub Analytics
-<div align="center">
+<!-- <div align="center">
   <table border="0">
     <tr>
       <td>
@@ -66,7 +66,7 @@ A versatile Software Engineer passionate about the intersection of data and web 
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ---
 
