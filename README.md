@@ -62,7 +62,7 @@ A versatile Software Engineer passionate about the intersection of data and web 
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sushmashreeps10&theme=rose&fire=ff69b4&ring=ffb6c1&stroke=ffc0cb&currStreakLabel=ff69b4" />
+       <img width="100%" src="https://github-readme-streak-stats.vercel.app/?user=sushmashreeps10&theme=rose&fire=ff69b4&ring=ffb6c1&stroke=ffc0cb&currStreakLabel=ff69b4" />
       </td>
     </tr>
   </table>
