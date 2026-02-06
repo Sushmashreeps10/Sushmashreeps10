@@ -50,14 +50,14 @@ A versatile Software Engineer passionate about the intersection of data and web 
 ---
 
 ### 📈 GitHub Analytics
-<!-- <div align="center">
+<div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushmashreeps10&show_icons=true&theme=rose&title_color=ff69b4&icon_color=ff69b4&text_color=555&bg_color=ffffff00" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushmashreeps10&show_icons=true&theme=rose&title_color=ff69b4&icon_color=ff69b4&text_color=555" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmashreeps10&layout=compact&theme=rose&title_color=ff69b4&text_color=555&bg_color=ffffff00" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmashreeps10&layout=compact&theme=rose&title_color=ff69b4&text_color=555" />
       </td>
     </tr>
     <tr>
@@ -66,8 +66,7 @@ A versatile Software Engineer passionate about the intersection of data and web 
       </td>
     </tr>
   </table>
-</div> -->
-
+</div>
 ---
 
 ### 🏆 Achievements & Trophies
